@@ -1,4 +1,3 @@
- 
 shinyUI(navbarPage("Exploring NYC's Water", theme = "style.css",
   #tags$body(
 
